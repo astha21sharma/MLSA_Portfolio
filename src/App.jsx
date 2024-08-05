@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Astha Sharma",
-  title: "Frontend developer And Security Analyst ",
+  title: "Web Developer",
   email: "sharma.18.astha@gmail.com",
   gitHub: "https://github.com/astha21sharma",
   instagram: "https://www.instagram.com/_shar05astha_/",
